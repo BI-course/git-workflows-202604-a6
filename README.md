@@ -16,3 +16,6 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+
+The purpose of this task is to improve the project's README file to ensure it clearly communicates the system’s purpose, setup process, and usage instructions. A well-structured README enhances project usability, collaboration, and maintainability.
+  
